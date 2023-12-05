@@ -6,3 +6,6 @@ vibrant
 dark mode
 video call
 audio call
+payment option
+send money
+recived money
